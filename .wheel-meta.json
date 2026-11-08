@@ -1,0 +1,22 @@
+{
+  "wheel_id": 822,
+  "structure": "umbrella",
+  "slug": "roofcontractortampa-116",
+  "project": "roof-repair-tampa-diy-vs-professional-b19e7e7d3ca4e934d35027330",
+  "parent_t1_ref": "roofcontractortampa-157",
+  "node_role": "feeder",
+  "money_target": "roofcontractortampa.net",
+  "primary_kw": "roof repair tampa diy vs professional",
+  "intended_url": "https://sitesau.github.io/roofcontractortampa-116/",
+  "tier": "T2",
+  "writeback_nonce": "7bd60876a3a12550",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/roof-repair-tampa-materials-compared-9717ce3d0dfb86a0d6767b41e0/",
+      "anchor": "https://aumedia.neocities.org/roof-repair-tampa-materials-compared-9717ce3d0dfb86a0d6767b41e0/",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "url"
+    }
+  ]
+}
